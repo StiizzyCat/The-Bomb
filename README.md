@@ -12,5 +12,10 @@ It can do massive damage
 its basic
 
 
-# Might get updated in the future! 
+# Updated as of 4/4/21
+[Changelog]
++ faster banning 
++ fixed deleting channel issues
++ fixed creating channel issues
++ nuke command now works flawless
 
