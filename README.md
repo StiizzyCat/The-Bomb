@@ -1,4 +1,5 @@
-# The-Bomb
+# The-Bomb *is broken untill I fix the code
+
 This was a simple nuker made by me Stiizzy Cat :)
 
 # Disclamer
